@@ -3,7 +3,8 @@
 >Linguagens utilizadas: <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80px" height="70px" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" height="70px" />
+                    
 
 >Projeto feito em colaboração dos seguintes participantes: <br>
 
