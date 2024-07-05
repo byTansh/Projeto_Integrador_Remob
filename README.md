@@ -1,7 +1,11 @@
 #Remob
 
+>Linguagens utilizadas: <br>
 
->Projeto feito em colaboração<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+
+>Projeto feito em colaboração dos seguintes participantes: <br>
 
 <div>
 <p>Luy Fernandes: <a href="https://www.linkedin.com/in/luuy-fernandes-47a6292b8/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><p/>
